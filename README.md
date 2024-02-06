@@ -1,4 +1,4 @@
-# React가 어떻게 동작하는지 깊이 있게 분석하기 위한 데모 프로젝트
+# React가 어떻게 동작하는지 분석하기 위한 데모 프로젝트
 
 # Getting Started with Create React App
 
