@@ -1,3 +1,5 @@
+# React가 어떻게 동작하는지 깊이 있게 분석하기 위한 데모 프로젝트
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
